@@ -1,0 +1,13 @@
+* {
+    background-color:antiquewhite;
+}
+
+.text {
+    font-family:'Courier New', Courier, monospace;
+    background-color:aliceblue;
+}
+
+.heading {
+    color:darkseagreen;
+    background-color:aliceblue;
+}
