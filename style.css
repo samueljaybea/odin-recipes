@@ -1,13 +1,13 @@
 * {
-    background-color:antiquewhite;
+  background-color: antiquewhite;
 }
 
 .text {
-    font-family:'Courier New', Courier, monospace;
-    background-color:aliceblue;
+  font-family: "Courier New", Courier, monospace;
+  background-color: aliceblue;
 }
 
 .heading {
-    color:darkseagreen;
-    background-color:aliceblue;
+  color: darkseagreen;
+  background-color: aliceblue;
 }
